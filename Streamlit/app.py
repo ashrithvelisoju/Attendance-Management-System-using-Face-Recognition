@@ -9,7 +9,6 @@ import datetime
 import time
 import pymysql
 
-
 class AttendanceManagementSystem:
     def __init__(self):
         # Initialize session state variables
