@@ -4,5 +4,6 @@ opencv-contrib-python
 pillow
 pandas
 numpy
+cv2
 pymysql
 streamlit
