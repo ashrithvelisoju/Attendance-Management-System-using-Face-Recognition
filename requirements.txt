@@ -1,6 +1,6 @@
 streamlit 
 opencv-python 
---upgrade opencv-contrib-python
+opencv-contrib-python
 numpy 
 pandas
 
