@@ -1,5 +1,4 @@
-python3-tk
-python3-tkinter
+
 opencv-python
 opencv-contrib-python
 pillow
