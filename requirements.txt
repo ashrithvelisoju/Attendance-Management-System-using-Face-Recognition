@@ -4,4 +4,4 @@ pillow
 pandas
 numpy
 pymysql
-streamlit
+streamlit streamlit-webrtc opencv-python-headless pandas pymysql
