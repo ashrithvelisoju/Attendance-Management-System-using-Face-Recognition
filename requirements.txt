@@ -1,9 +1,1 @@
-
-opencv-python
-opencv-contrib-python
-pillow
-pandas
-numpy
-cv2
-pymysql
-streamlit
+streamlit opencv-python-headless numpy pandas pillow pymysql
