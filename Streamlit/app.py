@@ -8,7 +8,7 @@ import csv
 import datetime
 import time
 import pymysql
-import opencv
+
 
 class AttendanceManagementSystem:
     def __init__(self):
