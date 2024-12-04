@@ -1,7 +1,8 @@
-streamlit 
+streamlit
+opencv
 opencv-python-headless
-numpy 
-pandas 
-pillow 
+numpy
+pandas
+pillow
 pymysql
 opencv-contrib-python
