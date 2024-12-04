@@ -1,6 +1,6 @@
-streamlit 
-opencv-python 
-opencv-contrib-python
-numpy 
-pandas
-
+streamlit==1.29.0
+opencv-python-headless==4.7.0.72
+numpy==1.24.3
+pandas==2.0.1
+Pillow==9.5.0
+pymysql==1.1.0
