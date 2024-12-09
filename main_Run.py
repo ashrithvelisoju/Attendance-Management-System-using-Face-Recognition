@@ -50,7 +50,7 @@ def manually_fill():
         Time = datetime.datetime.fromtimestamp(ts).strftime('%H:%M:%S')
         Hour, Minute, Second = timeStamp.split(":")
         # Creatting csv of attendance
-
+        
         # Create table for Attendance
         date_for_DB = datetime.datetime.fromtimestamp(ts).strftime('%Y_%m_%d')
         global subb
