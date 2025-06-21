@@ -30,7 +30,7 @@ The **Attendance Management System** is a Python-based application that leverage
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/attendance-management-system.git
+git clone https://github.com/ashrithvelisoju/attendance-management-system.git
 cd attendance-management-system
 ```
 
