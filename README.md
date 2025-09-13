@@ -237,7 +237,7 @@ CREATE TABLE attendance (
 ---
 
 ## Contributing
-We welcome contributions! Please read our contributing guidelines and submit pull requests for any enhancements.
+I welcome contributions! Please read our contributing guidelines and submit pull requests for any enhancements.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
